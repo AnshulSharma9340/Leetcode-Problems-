@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions+Since+2023" alt="Typing SVG" />
 </div>
 
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
