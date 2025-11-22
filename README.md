@@ -20,7 +20,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
-<img align="right" src="https://user-images.githubusercontent.com/152342371/280908851-f421f66e-2161-4c12-87ce-884841c609c1.gif" alt="Dog Man Coding" width="400" />
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400" />
+
 I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
 * **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
@@ -28,6 +29,7 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 * **🚀 Mission:** To leverage cutting-edge technologies (LLMs, Deep Learning) to create innovative, production-ready solutions.
 
 <br clear="right"/>
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
