@@ -1,174 +1,157 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=false&width=1100&height=60&lines=%E2%9A%9B%EF%B8%8F+ANSHUL+SHARMA+%E2%9C%A8+%7C+AI+%26+DATA+SCIENCE+ENGINEER" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=9457f5&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Solving+Complex+Problems+with+Python+%26+ML;Building+Intelligent+Full--Stack+Applications;Data-Driven+Innovator+%7C+ITM+GWALIOR" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9A%A1%EF%B8%8F&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Actively%20Building%20&%20Seeking%20Opportunities-ff5733?style=for-the-badge&logo=dev.to" alt="Status" />
-  <img src="https://img.shields.io/badge/Connect-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Deep Dive: Professional Summary
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
-
-I am a **Dynamic Data Science Undergraduate** (B.Tech, ITM Gwalior, CGPA: 7.43) specializing in the full data lifecycle: from exploratory data analysis (EDA) and feature engineering to deployment of robust **Machine Learning solutions** and **Full-Stack web applications**.
-
-My experience spans high-impact projects:
-* **ML Model Development:** Successfully deployed systems for **Fraud Detection**, **Employee Attrition Prediction**, and **Candidate Readiness Scoring**.
-* **Advanced Web Architecture:** Proficient in using **Flask** and **Django** for backend logic, complemented by LLM/NLP integration (e.g., **WebGenius**, **Luminal Engine**).
-* **Data & System Leadership:** Leading the development of the **ITM Alumni Portal** and driving technical projects within the Infinity Club. I thrive in fast-paced environments, rapidly acquiring and deploying new technologies.
-
-<br clear="right"/>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; My Advanced Tech Stack (Arsenal)
+<!-- TOP ANIMATED BANNER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-  
-### 💻 Programming & DSA Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,r,sql" alt="Programming Skills" />
-</p>
-<p>
-  **Core Focus:** Data Structures & Algorithms using C++ (Problem Solving, Algorithm Design).
-</p>
+<!-- MAIN NAME ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=2200&pause=400&color=00E5FF&center=true&vCenter=true&multiline=false&width=1000&height=60&lines=🚀+ANSHUL+SHARMA" />
 
-### 🧠 Data Science & Machine Learning Toolkit
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch,keras,powerbi,tableau" alt="Data Science Skills" />
-</p>
-<p>
-  **ML/AI:** NLP, Deep Learning (NPTEL Certified), RAG Systems, Model Deployment.
-</p>
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=200&color=9B8CFF&center=true&vCenter=true&width=900&height=70&lines=Python+Developer+%7C+Data+Science+%26+Analytics;Machine+Learning+Engineer+%7C+Full+Stack+Developer;AI+Automation+%7C+RAG+%7C+LLM+Developer" />
 
-</td>
-<td width="50%">
-  
-### 🌐 Full-Stack Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,html,css,react,nextjs,rest,firebase" alt="Web & Database Skills" />
-</p>
-<p>
-  **Backend/APIs:** Flask, Django, REST, Node.js (Basic). **Frontend:** HTML, CSS, JavaScript, React.
-</p>
-
-### 🗄️ Database & Cloud Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,gcp,azure,oracle" alt="Database & Cloud Skills" />
-</p>
-<p>
-  **Cloud Certs:** Oracle Cloud Professional, Microsoft Azure Developer Associate, Google Cloud Data Analytics.
-</p>
-
-</td>
-</tr>
-</table>
-
-![](https://github-contributor-stats.vercel.app/api?username=AnshulSharma9340&limit=8&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; High-Impact Projects & Experience
-
-* ### **Current & Recent Internships**
-    * **Data Analytics Intern, Veridia.io** (Nov 2025 – Present): Developed **Resume Intelligence System** (ML model predicting candidate fit/category).
-    * **Machine Learning Intern, Cognify Technologies** (Aug 2025 – Oct 2025): Deployed **Employee Insight Engine** (4 ML models) for attrition/performance/satisfaction analysis.
-    * **AI-ML Virtual Intern, Google (via Eduskill)** (May 2025 – Present): Focused on machine learning fundamentals and model building using TensorFlow.
-* ### **Featured Projects**
-    * **🚀 Luminal Engine (LLM-Based Platform)**: RAG system providing accurate, contextual Q&A (similar to Perplexity AI).
-    * **🤖 WebGenius (AI Website Builder)**: NLP-based application leveraging LLMs to generate fully responsive websites from prompts (Tech: Next.js).
-    * **📚 Academic Trailblazers**: Web platform for recording and displaying student achievements, designed for data-driven institutional recognition.
-    * **💳 Suspicious Transaction Detection System**: ML-powered solution to identify fraudulent activities and anomalous transaction patterns.
-
----
-
-## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> &nbsp; Certification & Recognition Hub
-
-<details open>
-<summary><b>🔥 View 15+ Advanced Digital Credentials (Click to Toggle)</b></summary>
 <br>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnshulSharma9340&theme=github_dark&no-frame=true&row=1&column=8&margin-w=10&margin-h=10&no-bg=true"/>
+<!-- BADGES -->
+<a href="https://github.com/AnshulSharma9340">
+<img src="https://img.shields.io/github/followers/AnshulSharma9340?label=Followers&style=social" />
+</a>
 
-### 🏅 Cloud & Data Engineering
-| Certification | Issuer | Link |
-| :---: | :---: | :---: |
-| **Oracle Cloud Infrastructure & Data Science Professional** | Oracle | [View Credential](PLACEHOLDER_ORACLE_LINK) |
-| **Microsoft Azure Developer Associate** | Microsoft | [View Credential](PLACEHOLDER_AZURE_LINK) |
-| **Google Cloud Data Analytics Certification** | Google Cloud Skills Boost | [View Credential](PLACEHOLDER_GOOGLE_DATA_ANALYTICS_LINK) |
-| **Alteryx Data Analytics Internship** | Alteryx | [View Credential](PLACEHOLDER_ALTERYX_LINK) |
-| **Cisco Data Science Certificate** | Cisco Networking Academy | [View Credential](PLACEHOLDER_CISCO_LINK) |
+<img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&style=flat-square&color=00e5ff" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
 
-### 🧠 AI/ML & Core Development
-| Certification | Issuer | Link |
-| :---: | :---: | :---: |
-| **Google AI/ML Internship Certificate** | AICTE–Eduskills | [View Credential](PLACEHOLDER_GOOGLE_AI_ML_LINK) |
-| **Deep Learning** | NPTEL, IIT Ropar | [View Credential](PLACEHOLDER_NPTEL_DL_LINK) |
-| **Machine Learning and AI Tools** | Microsoft | [View Credential](PLACEHOLDER_MS_ML_LINK) |
-| **Python Full Stack Developer** (Virtual Internship) | AICTE–Eduskills | [View Credential](PLACEHOLDER_PYTHON_FS_LINK) |
-| **Python Training** | Spoken Tutorial (IIT Bombay) | [View Credential](PLACEHOLDER_IIT_B_PYTHON_LINK) |
+<a href="mailto:anshulsharma7162@gmail.com">
+<img src="https://img.shields.io/badge/Email-anshulsharma7162%40gmail.com-blue?style=flat-square" />
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> &nbsp; GitHub Activity & Performance
-
-<div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshulSharma9340&theme=github_dark"/>
-
-<table>
-<tr>
-<td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulSharma9340&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-## 📞 &nbsp; Let's Connect & Collaborate!
+# 👋 About Me
+
+I'm **Anshul Sharma**, a **Python Developer** specializing in:
+
+🔹 Data Science & Machine Learning  
+🔹 LLM / RAG Systems  
+🔹 Full-Stack Web Development  
+🔹 AI Automation & Backend Engineering  
+
+📞 **Phone:** +91 9340233412  
+📧 **Email:** anshulsharma7162@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/anshul-sharma-9856882a4/  
+🐙 **GitHub:** https://github.com/AnshulSharma9340  
+
+---
+
+# 💼 Experience
+
+- **Data Analytics Intern — Veridia.io (Nov 2025 – Present)**
+- **ML Intern — Cognify Technologies**
+- **Data Science Intern — Prodigy Infotech**
+- **Full Stack Python Developer — Eduskill Program**
+
+---
+
+# 🚀 Featured Projects
+
+### 🔥 **Luminal Engine — RAG Question Answering System**
+LLM + Embeddings + Vector Search (FAISS / PGVector)
+
+### 🧠 **Employee Insight Engine**
+ML Pipeline: Attrition, Performance, Satisfaction Prediction
+
+### 🌐 **WebGenius — AI Website Generator**
+Enter prompt → AI generates complete responsive website
+
+### 🤖 **Jarvis AI Assistant**
+Voice → Intent → Task Execution automation
+
+### 🏫 **Academic Trailblazers**
+Student Achievement Portal
+
+### 🪩 **Infinity Club Website**
+Full website for college club with events, admin, gallery, etc.
+
+---
+
+# 📌 Pinned Projects
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma-9856882a4)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshulSharma9340)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](PLACEHOLDER_PORTFOLIO_LINK)
-  [![Contact](https://img.shields.io/badge/Phone-9340233412-4B0082?style=for-the-badge&logo=phonepe&logoColor=white)](tel:+919340233412)
-  
+
+<a href="https://github.com/AnshulSharma9340/Luminal-Engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshulSharma9340&repo=Luminal-Engine&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/AnshulSharma9340/WebGenius">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshulSharma9340&repo=WebGenius&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/AnshulSharma9340/Employee-Insight-Engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnshulSharma9340&repo=Employee-Insight-Engine&theme=tokyonight" />
+</a>
+
 </div>
 
+---
+
+# 🧰 Tech Stack
+
 <div align="center">
-  
-  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Data is the foundation; Logic is the architecture."
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=20&fontColor=fff&animation=twinkling"/>
-  
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,django,nextjs,tailwind,postgres,mysql,mongodb,tf,pytorch,sklearn,git,github" />
+
 </div>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AnshulSharma9340&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSharma9340&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshulSharma9340&theme=github-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+# 🏅 Certifications
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Oracle_Cloud-Data_Science-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microsoft-Azure_Developer-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google-AI_And_ML-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL-Deep_Learning-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco-Data_Science-lightgrey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Alteryx-Data_Analytics-green?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: **anshulsharma7162@gmail.com**  
+📞 Phone: **+91 9340233412**  
+🔗 LinkedIn: **linkedin.com/in/anshul-sharma-9856882a4**  
+🐙 GitHub: **github.com/AnshulSharma9340**
+
+---
+
+# ❤️ Thanks for visiting!
+
+<div align="center">
+<img src="https://imgur.com/rilHVxA.png" width="60%">
+</div>
+
