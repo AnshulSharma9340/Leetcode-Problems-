@@ -12,11 +12,15 @@
 
 
 
+<br>
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
