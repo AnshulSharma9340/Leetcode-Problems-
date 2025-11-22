@@ -164,6 +164,6 @@ I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Code. Create. Conquer. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+For+Exploring+Visiting!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+For+Visiting!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
 
 </div>
