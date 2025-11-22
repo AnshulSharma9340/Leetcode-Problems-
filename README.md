@@ -7,48 +7,70 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+<img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Architect 🧠
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
 
-I am a **Highly Motivated** <ins>B.Tech (Data Science) Undergraduate</ins>, specializing in transforming *raw data into actionable intelligence* and deploying **robust software solutions**. My core strength lies in bridging the gap between theoretical **ML models** and practical, scalable **Full-Stack applications** (Flask/Django).
- 
-<br>
+I am a **High-Impact B.Tech (Data Science) Undergraduate**, specializing in transforming *raw data* into **actionable intelligence** and deploying scalable **Full-Stack ML applications**. My passion is bridging theoretical ML models with practical deployment (Flask/Django).
+
+<br clear="right"/>
 
 <div align="center">
 <table>
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Education-B.Tech%20(Data%20Science)-4169E1?style=for-the-badge&logo=firebase&logoColor=white" alt="Education Badge"/>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3><img src="https://media.giphy.com/media/fYhW4D3K34N4FpA9uA/giphy.gif" width="30"/> Education & Metrics</h3>
+        <hr>
+        <p>
+          🎓 <strong>B.Tech:</strong> Data Science, ITM GWALIOR <br>
+          📅 <strong>Duration:</strong> 2023 – 2027 <br>
+          <img src="https://img.shields.io/badge/CGPA-7.43-4169E1?style=flat&logo=appveyor&logoColor=white" alt="CGPA Badge"/>
+          <img src="https://img.shields.io/badge/SGPA-7.8-008080?style=flat&logo=appveyor&logoColor=white" alt="SGPA Badge"/>
+        </p>
+      </div>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/CGPA-7.43%20SGPA%3A%207.8-008080?style=for-the-badge&logo=jupyter&logoColor=white" alt="GPA Badge"/>
+      <td width="33%" valign="top">
+      <div align="center">
+        <h3><img src="https://media.giphy.com/media/H5xL2c4i0q1fL9u9x9/giphy.gif" width="30"/> Core Specialization</h3>
+        <hr>
+        <p align="left" style="padding-left: 20px;">
+          <ul>
+            <li>**Data Modeling:** Predictive Analytics & Feature Engineering.</li>
+            <li>**Backend:** Flask, Django, REST API Integration.</li>
+            <li>**Visualization:** Power BI & Data Storytelling.</li>
+            <li>**DSA:** C++ for Problem Solving & Algorithms.</li>
+          </ul>
+        </p>
+      </div>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Location-Gwalior%2C%20India-DC143C?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location Badge"/>
+    <td width="33%" valign="top">
+      <div align="center">
+        <h3><img src="https://media.giphy.com/media/U0s7p17B4w9zK5p0jO/giphy.gif" width="30"/> Mission & Projects</h3>
+        <hr>
+        <p align="left" style="padding-left: 20px;">
+          <ul>
+            <li>**Goal:** To leverage cutting-edge technologies (LLMs, Deep Learning).</li>
+            <li>**Tech:** Creating innovative, production-ready solutions.</li>
+            <li>**Activity:** Leading ITM Alumni Portal development.</li>
+            <li>**Contribution:** Active contributor to Open Source initiatives.</li>
+          </ul>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
 </div>
-
-### 🔑 Core Focus Areas
-* **🎓 Education Focus:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
-* **📊 Technical Expertise:** Data Modeling, Predictive Analytics, Backend Integration (Flask/Django), Data Visualization.
-* **🚀 Mission & Goals:** To leverage cutting-edge technologies (**LLMs, Deep Learning**) to create innovative, production-ready solutions and contribute to open-source projects.
-
-<br clear="right"/>
-
----
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
@@ -58,40 +80,40 @@ I am a **Highly Motivated** <ins>B.Tech (Data Science) Undergraduate</ins>, spec
 <table>
 <tr>
 <td width="50%">
-  
+
 ### 🐍 Data Science & ML Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,jupyter,r,powerbi" alt="Data Science Skills" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow,pytorch,jupyter,r,powerbi" alt="Data Science Skills" />
 </p>
 <p>
-  **Focus:** Deep Learning, NLP (RAG), Predictive Modeling, Time Series Analysis.
+**Focus:** Deep Learning, NLP (RAG), Predictive Modeling, Time Series Analysis.
 </p>
 
 ### 💻 Full-Stack Development & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,django,html,css,js,react,nextjs,nodejs,rest" alt="Web & Backend Skills" />
+<img src="https://skillicons.dev/icons?i=flask,django,html,css,js,react,nextjs,nodejs,rest" alt="Web & Backend Skills" />
 </p>
 <p>
-  **API/Tools:** RESTful APIs, Git, VSCode, Postman.
+**API/Tools:** RESTful APIs, Git, VSCode, Postman.
 </p>
 
 </td>
 <td width="50%">
-  
+
 ### ⚙️ Core Engineering & DSA
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,vscode,github,linux,aws" alt="Core Engineering Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,java,vscode,github,linux,aws" alt="Core Engineering Skills" />
 </p>
 <p>
-  **Data Structures & Algorithms:** Advanced Problem Solving using C++.
+**Data Structures & Algorithms:** Advanced Problem Solving using C++.
 </p>
 
 ### ☁️ Cloud & Data Management
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,gcp,azure,oracle,sqlite" alt="Database & Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,gcp,azure,oracle,sqlite" alt="Database & Cloud Skills" />
 </p>
 <p>
-  **Cloud Certified:** Oracle Cloud, Microsoft Azure, Google Cloud.
+**Cloud Certified:** Oracle Cloud, Microsoft Azure, Google Cloud.
 </p>
 </td>
 </tr>
@@ -125,10 +147,10 @@ I am a **Highly Motivated** <ins>B.Tech (Data Science) Undergraduate</ins>, spec
 <table>
 <tr>
 <td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnshulSharma9340&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-  <img src="https://streak-stats.demolab.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AnshulSharma9340&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -172,18 +194,18 @@ I am a **Highly Motivated** <ins>B.Tech (Data Science) Undergraduate</ins>, spec
 ## 🔗 &nbsp; Connect with The Architect
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma-9856882a4)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshulSharma9340)
-  [![Email](https://img.shields.io/badge/Email-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulsharma7162@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](PLACEHOLDER_PORTFOLIO_LINK)
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-sharma-9856882a4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnshulSharma9340)
+[![Email](https://img.shields.io/badge/Email-anshulsharma7162@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulsharma7162@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](PLACEHOLDER_PORTFOLIO_LINK)
+
 </div>
 
 <div align="center">
-  
-  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Code. Create. Conquer. Repeat."
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+You+For+Exploring+My+Profile!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
-  
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Code. Create. Conquer. Repeat."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank+You+For+Exploring+My+Profile!+%F0%9F%99%8F&fontSize=25&fontColor=fff&animation=twinkling"/>
+
 </div>
