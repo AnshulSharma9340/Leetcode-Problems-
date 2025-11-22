@@ -20,7 +20,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
-<img align="right" src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding" width="400" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RraGg4c3I5YmNuc3I3NG16NnQ1dWd3cG54OW1mdmx6N2R1Z2ZraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Dog Man Coding" width="400" />
 I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
 * **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
