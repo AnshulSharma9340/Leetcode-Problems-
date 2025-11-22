@@ -15,20 +15,40 @@
   <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
-I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
-* **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
-* **📊 Key Focus:** Data Modeling, Predictive Analytics, Backend Integration (Flask/Django).
-* **🚀 Mission:** To leverage cutting-edge technologies (LLMs, Deep Learning) to create innovative, production-ready solutions.
+I am a **Highly Motivated** <ins>B.Tech (Data Science) Undergraduate</ins>, specializing in transforming *raw data into actionable intelligence* and deploying **robust software solutions**. My core strength lies in bridging the gap between theoretical **ML models** and practical, scalable **Full-Stack applications** (Flask/Django).
+ 
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Education-B.Tech%20(Data%20Science)-4169E1?style=for-the-badge&logo=firebase&logoColor=white" alt="Education Badge"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/CGPA-7.43%20SGPA%3A%207.8-008080?style=for-the-badge&logo=jupyter&logoColor=white" alt="GPA Badge"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Location-Gwalior%2C%20India-DC143C?style=for-the-badge&logo=mapbox&logoColor=white" alt="Location Badge"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+### 🔑 Core Focus Areas
+* **🎓 Education Focus:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
+* **📊 Technical Expertise:** Data Modeling, Predictive Analytics, Backend Integration (Flask/Django), Data Visualization.
+* **🚀 Mission & Goals:** To leverage cutting-edge technologies (**LLMs, Deep Learning**) to create innovative, production-ready solutions and contribute to open-source projects.
 
 <br clear="right"/>
 
+---
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
