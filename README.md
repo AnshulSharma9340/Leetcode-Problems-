@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/073b3208-111d-40e1-bb9b-b271bb891e4a" width="900">
+<img src="https://user-images.githubusercontent.com/152342371/280908866-9e96f13b-31d7-400d-85f2-95f190e7855b.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d6308ecb-932d-4560-bf38-4e1ec0b5550c" alt="Dog Man Coding" width="400" />
+<img align="right" src="https://user-images.githubusercontent.com/152342371/280908851-f421f66e-2161-4c12-87ce-884841c609c1.gif" alt="Dog Man Coding" width="400" />
 I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
 * **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
