@@ -7,27 +7,20 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions+Since+2023" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=100&color=F7931E&center=true&vCenter=true&multiline=false&width=1000&height=50&lines=Python+Expert;+Data+Strategist;+Full-Stack+AI+Developer;+Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
-
-
-<br>
-<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AnshulSharma9340&label=PROFILE%20VIEWS%20%E2%9C%85&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
-<br>
-<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
-
 I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
 * **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
