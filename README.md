@@ -17,60 +17,18 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Architect 🧠
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
+I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
 
-I am a **High-Impact B.Tech (Data Science) Undergraduate**, specializing in transforming *raw data* into **actionable intelligence** and deploying scalable **Full-Stack ML applications**. My passion is bridging theoretical ML models with practical deployment (Flask/Django).
+* **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
+* **📊 Key Focus:** Data Modeling, Predictive Analytics, Backend Integration (Flask/Django).
+* **🚀 Mission:** To leverage cutting-edge technologies (LLMs, Deep Learning) to create innovative, production-ready solutions.
 
 <br clear="right"/>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3><img src="https://media.giphy.com/media/fYhW4D3K34N4FpA9uA/giphy.gif" width="30"/> Education & Metrics</h3>
-        <hr>
-        <p>
-          🎓 <strong>B.Tech:</strong> Data Science, ITM GWALIOR <br>
-          📅 <strong>Duration:</strong> 2023 – 2027 <br>
-          <img src="https://img.shields.io/badge/CGPA-7.43-4169E1?style=flat&logo=appveyor&logoColor=white" alt="CGPA Badge"/>
-          <img src="https://img.shields.io/badge/SGPA-7.8-008080?style=flat&logo=appveyor&logoColor=white" alt="SGPA Badge"/>
-        </p>
-      </div>
-    </td>
-      <td width="33%" valign="top">
-      <div align="center">
-        <h3><img src="https://media.giphy.com/media/H5xL2c4i0q1fL9u9x9/giphy.gif" width="30"/> Core Specialization</h3>
-        <hr>
-        <p align="left" style="padding-left: 20px;">
-          <ul>
-            <li>**Data Modeling:** Predictive Analytics & Feature Engineering.</li>
-            <li>**Backend:** Flask, Django, REST API Integration.</li>
-            <li>**Visualization:** Power BI & Data Storytelling.</li>
-            <li>**DSA:** C++ for Problem Solving & Algorithms.</li>
-          </ul>
-        </p>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <div align="center">
-        <h3><img src="https://media.giphy.com/media/U0s7p17B4w9zK5p0jO/giphy.gif" width="30"/> Mission & Projects</h3>
-        <hr>
-        <p align="left" style="padding-left: 20px;">
-          <ul>
-            <li>**Goal:** To leverage cutting-edge technologies (LLMs, Deep Learning).</li>
-            <li>**Tech:** Creating innovative, production-ready solutions.</li>
-            <li>**Activity:** Leading ITM Alumni Portal development.</li>
-            <li>**Contribution:** Active contributor to Open Source initiatives.</li>
-          </ul>
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp; The Ultra-Advanced Stack
