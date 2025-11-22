@@ -15,17 +15,44 @@
 <img src="https://img.shields.io/badge/Status-Open%20for%20High%20Impact%20Projects-FF4500?style=for-the-badge&logo=react&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/Contact-9340233412-28a745?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; About Anshul: The Data Innovator
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; **Anshul Sharma — The Data Innovator**
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
-I am a highly motivated **B.Tech (Data Science)** undergraduate, specializing in transforming raw data into actionable intelligence and deploying robust software solutions. My core strength lies in bridging the gap between theoretical ML models and practical, scalable **Full-Stack applications**.
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="410" />
 
-* **🎓 Education:** B.Tech, Computer Science and Engineering (Data Science), ITM GWALIOR (2023 – 2027)
-* **📊 Key Focus:** Data Modeling, Predictive Analytics, Backend Integration (Flask/Django).
-* **🚀 Mission:** To leverage cutting-edge technologies (LLMs, Deep Learning) to create innovative, production-ready solutions.
+Hi there! 👋  
+I’m **Anshul Sharma**, a passionate **B.Tech Data Science Engineer** dedicated to crafting intelligent systems that blend **Machine Learning**, **Deep Learning**, and **High-Performance Backends** to solve real-world problems end-to-end.
+
+I thrive at the intersection of **Data Engineering**, **Predictive Analytics**, and **AI-powered full-stack applications**, turning complex datasets into meaningful insights and production-ready tech.
+
+---
+
+### 🔍 **What Drives Me**
+- 🚀 Building scalable ML systems and intelligent automation  
+- 💡 Transforming raw data into actionable, high-impact insights  
+- 🔐 Designing secure, efficient backend architectures (Flask / Django / Node.js)  
+- 🧠 Exploring LLMs, generative AI, and modern deep learning stacks  
+
+---
+
+### 🎓 **Education**
+- **B.Tech – Computer Science & Engineering (Data Science)**  
+  *ITM Gwalior | 2023 – 2027*
+
+---
+
+### 🎯 **Core Focus Areas**
+- 📊 **Data Modeling & Predictive Analytics**  
+- 🗄️ **Backend Engineering & API Development**  
+- 🤖 **Machine Learning / Deep Learning Applications**  
+- 🏗️ **AI-Integrated Full-Stack Solutions**
+
+---
+
+### 🌟 **Mission Statement**
+> I aim to leverage modern AI, LLMs, and scalable cloud-native technologies  
+> to build innovative solutions that make data-driven intelligence accessible to all.
 
 <br clear="right"/>
 
